@@ -1,5 +1,9 @@
 - 🤗 Hi, I’m @AimenNadeem
 - ♥️ I’m interested in web developement, web design, human computer interaction design, software quality assurance and project documentation.
+- 🌞 I am proficient in the programming language C#.
+- 🌚 I have mid level experience in Java (I say this because I am weak in multithreading 🤕).
+- 🤠 I am skilled in the following web development technologies; Typescript, HTML, CSS, SCSS, Bootstrap and Fontawesome.
+- 🛸 My current toolset includes Angular, Dot Net Core, Java Spring Boot.
 - ✨ I am currently learning DSA, Jira and Github.
 - 👾 I am a fullstack application developer for web and intergration developement.
 - 🤖 I create integration layered applications such as middlewares and automated systems for smart switching to support internal operations in a bank.
