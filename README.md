@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Aimenxxx
-- 👀 I’m interested in ~ JAVA ~ Python ~ C++ ~ RemixJS ~ NextJS ~ Nuxt ~ ASTRO ~
-- 🌱 I’m currently learning ~ NextJS ~ RemixJS ~
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Aimenxxx/Aimenxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤗 Hi, I’m @AimenNadeem
+- ♥️ I’m interested in web developement, web design, human computer interaction design, software quality assurance and project documentation.
+- ✨ I am currently learning DSA, Jira and Github.
+- 👾 I am a fullstack application developer for web and intergration developement.
+- 🤖 I create integration layered applications such as middlewares and automated systems for smart switching to support internal operations in a bank.
+- 👽 I also create web applications.
